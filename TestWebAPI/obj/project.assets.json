@@ -189,7 +189,7 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "DTOLibrary": "1.0.0",
-          "ModelsLubrary": "1.0.0"
+          "ModelsLibrary": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MappingProfile.dll": {}
@@ -198,14 +198,14 @@
           "bin/placeholder/MappingProfile.dll": {}
         }
       },
-      "ModelsLubrary/1.0.0": {
+      "ModelsLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/ModelsLubrary.dll": {}
+          "bin/placeholder/ModelsLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ModelsLubrary.dll": {}
+          "bin/placeholder/ModelsLibrary.dll": {}
         }
       }
     }
@@ -661,10 +661,10 @@
       "path": "../MappingProfile/MappingProfile.csproj",
       "msbuildProject": "../MappingProfile/MappingProfile.csproj"
     },
-    "ModelsLubrary/1.0.0": {
+    "ModelsLibrary/1.0.0": {
       "type": "project",
-      "path": "../ModelsLubrary/ModelsLubrary.csproj",
-      "msbuildProject": "../ModelsLubrary/ModelsLubrary.csproj"
+      "path": "../ModelsLibrary/ModelsLibrary.csproj",
+      "msbuildProject": "../ModelsLibrary/ModelsLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -672,24 +672,24 @@
       "AutoMapper >= 13.0.1",
       "DTOLibrary >= 1.0.0",
       "MappingProfile >= 1.0.0",
-      "ModelsLubrary >= 1.0.0",
+      "ModelsLibrary >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Student\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Assembly\\TestWebAPI-master\\TestWebAPI-master\\TestWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\TestWebAPI-master\\TestWebAPI.csproj",
       "projectName": "TestWebAPI",
-      "projectPath": "F:\\Assembly\\TestWebAPI-master\\TestWebAPI-master\\TestWebAPI.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\Assembly\\TestWebAPI-master\\TestWebAPI-master\\obj\\",
+      "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\TestWebAPI-master\\TestWebAPI.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\TestWebAPI-master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -697,20 +697,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.bazissoft.ru/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Assembly\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj": {
-              "projectPath": "F:\\Assembly\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj"
+            "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj"
             },
-            "F:\\Assembly\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj": {
-              "projectPath": "F:\\Assembly\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj"
+            "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj"
             },
-            "F:\\Assembly\\TestWebAPI-master\\ModelsLubrary\\ModelsLubrary.csproj": {
-              "projectPath": "F:\\Assembly\\TestWebAPI-master\\ModelsLubrary\\ModelsLubrary.csproj"
+            "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj"
             }
           }
         }
@@ -719,11 +720,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -758,7 +754,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

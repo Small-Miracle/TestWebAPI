@@ -26,7 +26,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DTOLibrary\DTOLibrary.csproj" />
     <ProjectReference Include="..\MappingProfile\MappingProfile.csproj" />
-    <ProjectReference Include="..\ModelsLubrary\ModelsLubrary.csproj" />
+    <ProjectReference Include="..\ModelsLibrary\ModelsLibrary.csproj" />
   </ItemGroup>
 
 </Project>

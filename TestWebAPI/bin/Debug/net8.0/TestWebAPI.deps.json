@@ -11,7 +11,7 @@
           "AutoMapper": "13.0.1",
           "DTOLibrary": "1.0.0",
           "MappingProfile": "1.0.0",
-          "ModelsLubrary": "1.0.0",
+          "ModelsLibrary": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -98,15 +98,15 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "DTOLibrary": "1.0.0",
-          "ModelsLubrary": "1.0.0"
+          "ModelsLibrary": "1.0.0"
         },
         "runtime": {
           "MappingProfile.dll": {}
         }
       },
-      "ModelsLubrary/1.0.0": {
+      "ModelsLibrary/1.0.0": {
         "runtime": {
-          "ModelsLubrary.dll": {}
+          "ModelsLibrary.dll": {}
         }
       }
     }
@@ -204,7 +204,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ModelsLubrary/1.0.0": {
+    "ModelsLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
