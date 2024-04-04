@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTOLibrary", "..\DTOLibrary
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MappingProfile", "..\MappingProfile\MappingProfile.csproj", "{BCC59077-19D8-4EF7-BF30-4FC5DE89DA26}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelsLubrary", "..\ModelsLubrary\ModelsLubrary.csproj", "{60D1FCF1-FB4F-4B17-B50A-F4823EF1D96F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsLibrary", "..\ModelsLibrary\ModelsLibrary.csproj", "{B298BD6F-46EB-48DB-871C-D9C574FB7EAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{BCC59077-19D8-4EF7-BF30-4FC5DE89DA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCC59077-19D8-4EF7-BF30-4FC5DE89DA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCC59077-19D8-4EF7-BF30-4FC5DE89DA26}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60D1FCF1-FB4F-4B17-B50A-F4823EF1D96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60D1FCF1-FB4F-4B17-B50A-F4823EF1D96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60D1FCF1-FB4F-4B17-B50A-F4823EF1D96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60D1FCF1-FB4F-4B17-B50A-F4823EF1D96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B298BD6F-46EB-48DB-871C-D9C574FB7EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B298BD6F-46EB-48DB-871C-D9C574FB7EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B298BD6F-46EB-48DB-871C-D9C574FB7EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B298BD6F-46EB-48DB-871C-D9C574FB7EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
