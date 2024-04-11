@@ -49,12 +49,11 @@ namespace TestWebApi.Controllers
         var hookM = mapper.Map<MergeHookDTO, MergeHookM>(hook);
 
             string hookMjson = JsonSerializer.Serialize<MergeHookM>(hookM);
-            Console.WriteLine(hookMjson);
 
 
 
             string? description = hookM.ObjectAttributes.Description;
-            string? MergeURL = hookM.ObjectAttributes.url;
+            string? MergeURL = hookM.ObjectAttributes.URL;
 
 
 //Парсинг description
@@ -76,7 +75,7 @@ namespace TestWebApi.Controllers
                     note newnote = new note();
                     newnote.issue = new issue();
 
-                    switch (hookM.ObjectAttributes.action)
+                    switch (hookM.ObjectAttributes.Action)
                         {
                         case "open":
                             newnote.issue.notes = $"Создан Merge Request - {MergeURL}";
@@ -106,8 +105,7 @@ namespace TestWebApi.Controllers
                    
                     foreach (var issueNumber in IssueNumbers)
                     {
-                        Console.WriteLine(issueNumber);
-
+                      
                         //var url = $"http://localhost:3000/issues/{issueNumber}.json?key=96bb0fbe4b976cdbc973ed5db303d2f6adca934c";
                         var url = "https://www.redmine.org/issues/40490.json";
                         HttpResponseMessage response = await client.PutAsync(url, content);

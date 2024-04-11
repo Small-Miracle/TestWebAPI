@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Converters/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Converters.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Converters.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Converters/1.0.0": {
+      "type": "project",
+      "path": "../Converters/Converters.csproj",
+      "msbuildProject": "../Converters/Converters.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Converters >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Assembly\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj",
       "projectName": "DTOLibrary",
-      "projectPath": "F:\\Assembly\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\Assembly\\TestWebAPI-master\\DTOLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

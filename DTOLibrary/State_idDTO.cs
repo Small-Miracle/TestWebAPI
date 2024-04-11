@@ -2,7 +2,7 @@
 { 
     public class State_idDTO
     {
-        public int? previous { get; set; }
-        public int? current { get; set; }
+        public int? Previous { get; set; }
+        public int? Current { get; set; }
     }
 }

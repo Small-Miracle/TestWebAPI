@@ -1,8 +1,14 @@
-﻿namespace DTOLibrary
+﻿using Converters;
+using System.Text.Json.Serialization;
+
+namespace DTOLibrary
 {
     public class Updated_atDTO
     {
-        public string? previous { get; set; }
-        public string? current { get; set; }
+        [JsonConverter(typeof(DateTimeConverter))]
+        public DateTime? Previous { get; set; }
+
+        [JsonConverter(typeof(DateTimeConverter))]
+        public DateTime? Current { get; set; }
     }
 }

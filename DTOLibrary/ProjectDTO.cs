@@ -14,7 +14,7 @@
         public string? Default_branch { get; set; }
         public string? Ci_config_path { get; set; }
         public string? Home_page { get; set; }
-        public string? Url { get; set; }
+        public string? URL { get; set; }
         public string? Ssh_url { get; set; }
         public string? Http_url { get; set; }
     }

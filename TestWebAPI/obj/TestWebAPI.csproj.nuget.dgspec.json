@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\TestWebAPI-master\\TestWebAPI.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\TestWebAPI\\TestWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj",
-        "projectName": "DTOLibrary",
-        "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\obj\\",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj",
+        "projectName": "Converters",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.bazissoft.ru/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -35,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj",
-        "projectName": "MappingProfile",
-        "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\MappingProfile\\obj\\",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj",
+        "projectName": "DTOLibrary",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,18 +82,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.bazissoft.ru/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj": {
-                "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj"
-              },
-              "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj": {
-                "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj"
+              "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj"
               }
             }
           }
@@ -98,6 +98,78 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\MappingProfile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\MappingProfile.csproj",
+        "projectName": "MappingProfile",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\MappingProfile.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -125,21 +197,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj",
         "projectName": "ModelsLibrary",
-        "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -147,8 +219,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.bazissoft.ru/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -160,6 +231,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -181,21 +257,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\TestWebAPI-master\\TestWebAPI.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\TestWebAPI\\TestWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\TestWebAPI-master\\TestWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\TestWebAPI\\TestWebAPI.csproj",
         "projectName": "TestWebAPI",
-        "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\TestWebAPI-master\\TestWebAPI.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\TestWebAPI-master\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\TestWebAPI\\TestWebAPI.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\TestWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -203,21 +279,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.bazissoft.ru/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj": {
-                "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj"
+              "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj"
               },
-              "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj": {
-                "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj"
+              "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\MappingProfile.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\MappingProfile.csproj"
               },
-              "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj": {
-                "projectPath": "C:\\Users\\Student\\Desktop\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj"
+              "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj"
               }
             }
           }
@@ -226,6 +301,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -260,7 +340,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

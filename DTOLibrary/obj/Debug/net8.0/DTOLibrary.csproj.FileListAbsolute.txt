@@ -42,3 +42,19 @@ F:\Assembly\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
 F:\Assembly\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
 F:\Assembly\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
 F:\Assembly\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\bin\Debug\net8.0\DTOLibrary.deps.json
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\bin\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\bin\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.sourcelink.json
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.Up2Date
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll

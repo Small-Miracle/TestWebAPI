@@ -2,7 +2,7 @@
 {
     public class ChangesM
     {
-       public StateIdM State_id { get; set; }
-       public UpdatedAtM UpdatedAtM { get; set; }
+    //   public StateIdM StateId { get; set; }
+       public UpdatedAtM UpdatedAt { get; set; }
     }
 }

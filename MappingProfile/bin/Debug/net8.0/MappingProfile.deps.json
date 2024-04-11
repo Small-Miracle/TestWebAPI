@@ -59,7 +59,15 @@
         }
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "Converters/1.0.0": {
+        "runtime": {
+          "Converters.dll": {}
+        }
+      },
       "DTOLibrary/1.0.0": {
+        "dependencies": {
+          "Converters": "1.0.0"
+        },
         "runtime": {
           "DTOLibrary.dll": {}
         }
@@ -111,6 +119,11 @@
       "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "Converters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "DTOLibrary/1.0.0": {
       "type": "project",

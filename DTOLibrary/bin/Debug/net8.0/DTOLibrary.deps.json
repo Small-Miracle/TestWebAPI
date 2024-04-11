@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "DTOLibrary/1.0.0": {
+        "dependencies": {
+          "Converters": "1.0.0"
+        },
         "runtime": {
           "DTOLibrary.dll": {}
+        }
+      },
+      "Converters/1.0.0": {
+        "runtime": {
+          "Converters.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DTOLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Converters/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

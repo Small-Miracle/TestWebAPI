@@ -7,7 +7,7 @@ namespace DTOLibrary
         public UserDTO? User { get; set; }
         public ProjectDTO? Project { get; set; }
         public Object_attributesDTO Object_Attributes { get; set; }
-        public List<string>? labels { get; set; }
+        public List<string>? Labels { get; set; }
         public ChangesDTO Changes { get; set;  }
         public RepositoryDTO Repository { get; set; }
     }

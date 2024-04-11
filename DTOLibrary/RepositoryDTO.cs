@@ -3,8 +3,8 @@
     public class RepositoryDTO
     {
         public string? Name { get; set; }
-        public string? url { get; set; }
-        public string? description { get; set; }
-        public string? homepage { get; set; }
+        public string? URL { get; set; }
+        public string? Description { get; set; }
+        public string? Homepage { get; set; }
     }
 }

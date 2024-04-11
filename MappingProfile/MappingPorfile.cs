@@ -15,8 +15,8 @@ namespace Mapping
                    .ForMember(dest => dest.ObjectAttributes, act => act.MapFrom(src => src.Object_Attributes));
             CreateMap<Object_attributesDTO, ObjectAttributesM>();
 
-            CreateMap<Merge_paramsDTO, MergeParamsM>()
-                .ForMember(dest => dest.ForceRemoveSourceBranch, act => act.MapFrom(src => src.force_remove_source_branch));
+            CreateMap<MergeParamsDTO, MergeParamsM>()
+                .ForMember(dest => dest.ForceRemoveSourceBranch, act => act.MapFrom(src => src.Force_remove_source_branch));
 
 
             CreateMap<Last_commitDTO, LastCommitM>();
@@ -27,7 +27,8 @@ namespace Mapping
             CreateMap<ProjectDTO, ProjectM>();
 
             CreateMap<ChangesDTO, ChangesM>()
-                     .ForMember(dest => dest.UpdatedAtM, act => act.MapFrom(src => src.Updated_at));
+                     .ForMember(dest => dest.UpdatedAt, act => act.MapFrom(src => src.Updated_at));
+                    
             CreateMap<Updated_atDTO, UpdatedAtM>();
             CreateMap<State_idDTO, StateIdM>();
             CreateMap<RepositoryDTO, RepositoryM>();

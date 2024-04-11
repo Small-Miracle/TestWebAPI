@@ -1,7 +1,7 @@
 ﻿namespace DTOLibrary
 {
-    public class Merge_paramsDTO
+    public class MergeParamsDTO
     {
-        public int force_remove_source_branch { get; set; }
+        public int Force_remove_source_branch { get; set; }
     }
 }

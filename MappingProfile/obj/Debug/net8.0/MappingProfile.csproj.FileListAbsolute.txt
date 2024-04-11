@@ -32,3 +32,23 @@ C:\Users\Student\Desktop\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\Mappi
 C:\Users\Student\Desktop\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
 C:\Users\Student\Desktop\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
 C:\Users\Student\Desktop\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingProfile.sourcelink.json
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\refint\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingProfile.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\MappingProfile.deps.json
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\MappingProfile.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingP.5A365F49.Up2Date
+C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
