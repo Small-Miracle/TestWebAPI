@@ -1,0 +1,23 @@
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Student\Desktop\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.sourcelink.json
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
