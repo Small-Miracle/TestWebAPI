@@ -52,3 +52,136 @@ C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0
 C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\bin\Debug\net8.0\Converters.pdb
 C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\MappingP.5A365F49.Up2Date
 C:\Users\Admin\Desktop\Новая папка (7)\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.deps.json
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.dll
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.pdb
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.dll
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.pdb
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.pdb
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.AssemblyReference.cache
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfoInputs.cache
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfo.cs
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CoreCompileInputs.cache
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingP.5A365F49.Up2Date
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.dll
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\refint\MappingProfile.dll
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.pdb
+F:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.deps.json
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.dll
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.pdb
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.dll
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.pdb
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.pdb
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.AssemblyReference.cache
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfoInputs.cache
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfo.cs
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CoreCompileInputs.cache
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CopyComplete
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.dll
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\refint\MappingProfile.dll
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.pdb
+D:\Новая папка (3)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.deps.json
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.dll
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.pdb
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.dll
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.pdb
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.pdb
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.AssemblyReference.cache
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfoInputs.cache
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfo.cs
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CoreCompileInputs.cache
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingP.5A365F49.Up2Date
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.dll
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\refint\MappingProfile.dll
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.pdb
+F:\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.deps.json
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingP.5A365F49.Up2Date
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\refint\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.deps.json
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingP.5A365F49.Up2Date
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\refint\MappingProfile.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.deps.json
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.dll
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.pdb
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.dll
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.dll
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.pdb
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+F:\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.pdb
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.AssemblyReference.cache
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.GeneratedMSBuildEditorConfig.editorconfig
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfoInputs.cache
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfo.cs
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CoreCompileInputs.cache
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingP.5A365F49.Up2Date
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.dll
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\refint\MappingProfile.dll
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.pdb
+F:\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.deps.json
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\MappingProfile.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingP.5A365F49.Up2Date
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\refint\MappingProfile.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\MappingProfile.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\MappingProfile\obj\Debug\net8.0\ref\MappingProfile.dll

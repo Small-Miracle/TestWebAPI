@@ -262,11 +262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\MappingProfile.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj",
       "projectName": "MappingProfile",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\MappingProfile.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\MappingProfile\\MappingProfile.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\MappingProfile\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\MappingProfile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -283,11 +283,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj"
+            "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj"
             },
-            "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\ModelsLibrary\\ModelsLibrary.csproj"
+            "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\ModelsLibrary\\ModelsLibrary.csproj"
             }
           }
         }

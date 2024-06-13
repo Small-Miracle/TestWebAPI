@@ -2,8 +2,8 @@
 
 namespace DTOLibrary
 {
-    public class note
+    public class NoteDTO
     {
-        public issue? issue { get; set; }
+        public IssueDTO? issue { get; set; }
     }
 }

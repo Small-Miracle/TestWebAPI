@@ -58,3 +58,108 @@ C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTO
 C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
 C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
 C:\Users\Admin\Desktop\Новая папка (7)\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.deps.json
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.pdb
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.dll
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.pdb
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.AssemblyReference.cache
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfoInputs.cache
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfo.cs
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CoreCompileInputs.cache
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.Up2Date
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
+F:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.deps.json
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.pdb
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.dll
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.pdb
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.AssemblyReference.cache
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfoInputs.cache
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfo.cs
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CoreCompileInputs.cache
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CopyComplete
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
+D:\Новая папка (3)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.deps.json
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.pdb
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.dll
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.pdb
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.AssemblyReference.cache
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfoInputs.cache
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfo.cs
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CoreCompileInputs.cache
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.Up2Date
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
+F:\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.deps.json
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.Up2Date
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.deps.json
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.Up2Date
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll
+F:\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.deps.json
+F:\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.dll
+F:\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.pdb
+F:\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.dll
+F:\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.pdb
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.AssemblyReference.cache
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfoInputs.cache
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfo.cs
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CoreCompileInputs.cache
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.Up2Date
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
+F:\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.deps.json
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.csproj.Up2Date
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\refint\DTOLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\DTOLibrary.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\DTOLibrary\obj\Debug\net8.0\ref\DTOLibrary.dll

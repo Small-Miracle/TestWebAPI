@@ -10,3 +10,80 @@ C:\Users\Admin\Desktop\Новая папка (7)\Converters\obj\Debug\net8.0\Con
 C:\Users\Admin\Desktop\Новая папка (7)\Converters\obj\Debug\net8.0\refint\Converters.dll
 C:\Users\Admin\Desktop\Новая папка (7)\Converters\obj\Debug\net8.0\Converters.pdb
 C:\Users\Admin\Desktop\Новая папка (7)\Converters\obj\Debug\net8.0\ref\Converters.dll
+F:\Новая папка (3)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.deps.json
+F:\Новая папка (3)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.dll
+F:\Новая папка (3)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.pdb
+F:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfoInputs.cache
+F:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfo.cs
+F:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.csproj.CoreCompileInputs.cache
+F:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.dll
+F:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\refint\Converters.dll
+F:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.pdb
+F:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\ref\Converters.dll
+D:\Новая папка (3)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.deps.json
+D:\Новая папка (3)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.dll
+D:\Новая папка (3)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.pdb
+D:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfoInputs.cache
+D:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfo.cs
+D:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.csproj.CoreCompileInputs.cache
+D:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.dll
+D:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\refint\Converters.dll
+D:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.pdb
+D:\Новая папка (3)\TestWebAPI-master\Converters\obj\Debug\net8.0\ref\Converters.dll
+F:\Новая папка (4)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.deps.json
+F:\Новая папка (4)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.dll
+F:\Новая папка (4)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.pdb
+F:\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfoInputs.cache
+F:\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfo.cs
+F:\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.csproj.CoreCompileInputs.cache
+F:\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.dll
+F:\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\refint\Converters.dll
+F:\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.pdb
+F:\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\ref\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.deps.json
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\refint\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\Converters\obj\Debug\net8.0\ref\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.deps.json
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\obj\Debug\net8.0\refint\Converters.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\Converters\obj\Debug\net8.0\ref\Converters.dll
+F:\ВКР\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.deps.json
+F:\ВКР\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.dll
+F:\ВКР\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.pdb
+F:\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.GeneratedMSBuildEditorConfig.editorconfig
+F:\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfoInputs.cache
+F:\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfo.cs
+F:\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.csproj.CoreCompileInputs.cache
+F:\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.dll
+F:\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\refint\Converters.dll
+F:\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.pdb
+F:\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\ref\Converters.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.deps.json
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\bin\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\refint\Converters.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\Converters.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\Converters\obj\Debug\net8.0\ref\Converters.dll
