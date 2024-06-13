@@ -1,6 +1,6 @@
 ﻿namespace ModelsLibrary
 {
-    public class MergeParamsM
+    public class MergeParamsModel
     {
         public int ForceRemoveSourceBranch { get; set; }
     }
