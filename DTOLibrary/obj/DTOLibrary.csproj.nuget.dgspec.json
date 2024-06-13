@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj": {
+    "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\Converters\\Converters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\Converters\\Converters.csproj",
         "projectName": "Converters",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\Converters\\Converters.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\Converters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj": {
+    "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj",
         "projectName": "DTOLibrary",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\DTOLibrary.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\DTOLibrary\\DTOLibrary.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\DTOLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\DTOLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Новая папка (7)\\Converters\\Converters.csproj"
+              "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\Converters\\Converters.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВКР\\TestWebAPI-master\\Converters\\Converters.csproj"
               }
             }
           }

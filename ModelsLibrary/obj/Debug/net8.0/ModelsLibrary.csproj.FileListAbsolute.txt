@@ -21,3 +21,80 @@ C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\
 C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
 C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
 C:\Users\Admin\Desktop\Новая папка (7)\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+F:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+D:\Новая папка (3)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+F:\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (4) — копия\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
+F:\ВКР\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+F:\ВКР\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+F:\ВКР\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+F:\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+F:\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+F:\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+F:\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+F:\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+F:\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+F:\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.deps.json
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\bin\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\refint\ModelsLibrary.dll
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ModelsLibrary.pdb
+C:\Users\Admin\Desktop\ВКР\TestWebAPI-master\ModelsLibrary\obj\Debug\net8.0\ref\ModelsLibrary.dll
